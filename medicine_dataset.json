@@ -1,0 +1,128 @@
+{
+  "symptoms": {
+    "headache": {
+      "medicines": [
+        { "name": "Paracetamol (Crocin/Dolo 650)", "use": "Relieves mild to moderate headache and fever", "dosage": "500mg–650mg every 4–6 hours. Max 4 doses/day for elderly.", "warning": "Do not exceed 2g/day if liver issues. Avoid alcohol." },
+        { "name": "Aspirin (Disprin)", "use": "Headache and mild pain relief", "dosage": "325mg once after food. Use with caution in elderly.", "warning": "Avoid if on blood thinners or have stomach ulcers." },
+        { "name": "Ibuprofen (Brufen)", "use": "Anti-inflammatory, relieves tension headache", "dosage": "200mg once after food. Use lowest dose for shortest time.", "warning": "Avoid in kidney disease, heart conditions. Take after food only." }
+      ],
+      "disclaimer": "Frequent headaches may indicate BP issues. Consult a doctor if headache persists more than 2 days."
+    },
+    "fever": {
+      "medicines": [
+        { "name": "Paracetamol (Crocin/Dolo 650)", "use": "Reduces fever and body temperature", "dosage": "650mg every 6 hours with water. Rest and hydrate well.", "warning": "If fever is above 103°F or lasts more than 3 days, visit hospital immediately." },
+        { "name": "Ibuprofen (Brufen 400)", "use": "Fever reduction and inflammation", "dosage": "400mg after meals, twice daily", "warning": "Avoid in elderly with kidney problems. Always take after food." }
+      ],
+      "disclaimer": "High fever in elderly can be dangerous. Seek medical attention if fever exceeds 103°F or persists beyond 2 days."
+    },
+    "knee pain": {
+      "medicines": [
+        { "name": "Diclofenac Gel (Voveran Gel)", "use": "Apply on knee for pain relief", "dosage": "Apply 2–3 times daily on affected area. Do not bandage tightly.", "warning": "For external use only. Avoid open wounds." },
+        { "name": "Paracetamol (Dolo 650)", "use": "Oral pain relief for arthritis knee pain", "dosage": "650mg twice daily after meals", "warning": "Long-term use may affect liver. Use only as needed." },
+        { "name": "Calcium + Vitamin D3 (Shelcal)", "use": "Strengthens bones and reduces joint pain over time", "dosage": "1 tablet daily after dinner", "warning": "Safe for elderly. Take regularly for 3+ months for best effect." }
+      ],
+      "disclaimer": "Knee pain in elderly may indicate arthritis or calcium deficiency. Physiotherapy and warm fomentation also help greatly."
+    },
+    "back pain": {
+      "medicines": [
+        { "name": "Diclofenac + Paracetamol (Voveran Plus)", "use": "Combined pain relief for back pain", "dosage": "1 tablet after food, twice daily. Maximum 5 days.", "warning": "Do not use more than 5 days without doctor advice." },
+        { "name": "Muscle Relaxant – Thiocolchicoside (Myospaz)", "use": "Relieves muscle spasm in back", "dosage": "4mg twice daily after meals, for 3–5 days only", "warning": "May cause drowsiness. Do not drive. Elderly should use with caution." }
+      ],
+      "disclaimer": "Back pain with numbness or radiating leg pain should be evaluated by a doctor. Rest, gentle stretching, and hot/cold packs also help."
+    },
+    "cold": {
+      "medicines": [
+        { "name": "Cetirizine (Zyrtec/Cetzine)", "use": "Relieves runny nose, sneezing, watery eyes", "dosage": "10mg once at bedtime", "warning": "May cause drowsiness. Elderly should take at night only." },
+        { "name": "Paracetamol + Phenylephrine (Sinarest)", "use": "Cold, blocked nose, mild fever", "dosage": "1 tablet twice daily after food", "warning": "Avoid if you have high BP. Contains decongestant." },
+        { "name": "Steam Inhalation", "use": "Natural relief for blocked nose and congestion", "dosage": "Inhale steam for 10 minutes, 2–3 times daily", "warning": "Be careful of hot water burns. Use a steam inhaler safely." }
+      ],
+      "disclaimer": "Cold usually resolves in 7 days. If symptoms worsen with chest pain or high fever, consult a doctor."
+    },
+    "dizziness": {
+      "medicines": [
+        { "name": "Meclizine (Vertin)", "use": "Relieves dizziness and vertigo", "dosage": "16mg twice daily. Take with water.", "warning": "May cause drowsiness. Sit or lie down when dizzy to prevent falls." },
+        { "name": "Betahistine (Betavert)", "use": "Reduces inner ear dizziness (Meniere's disease)", "dosage": "8–16mg three times daily after meals", "warning": "Take regularly as prescribed. Effects take a few weeks." }
+      ],
+      "disclaimer": "Dizziness in elderly can be due to low BP, dehydration, or inner ear issues. Drink water, stand up slowly. See a doctor if it's frequent."
+    },
+    "stomach pain": {
+      "medicines": [
+        { "name": "Antacid (Digene/Gelusil)", "use": "Relieves acidity, gas, and mild stomach pain", "dosage": "2 tablets after meals or when pain occurs", "warning": "Safe for short-term use. If pain is severe or recurring, see a doctor." },
+        { "name": "Domperidone (Domstal)", "use": "Relieves nausea and stomach discomfort", "dosage": "10mg 30 minutes before meals", "warning": "Use for short periods only. Elderly should use low dose." },
+        { "name": "Omeprazole (Omez)", "use": "Reduces stomach acid, treats ulcer pain", "dosage": "20mg once in the morning before breakfast", "warning": "For long-term acid issues. Consult doctor for use beyond 2 weeks." }
+      ],
+      "disclaimer": "Sudden severe stomach pain, especially with vomiting or black stools, requires immediate medical attention."
+    },
+    "diabetes": {
+      "medicines": [
+        { "name": "Metformin (Glycomet 500)", "use": "Controls blood sugar in Type 2 Diabetes", "dosage": "500mg twice daily with meals as prescribed by doctor", "warning": "Do not skip meals when taking. Monitor blood sugar regularly." },
+        { "name": "Glimepiride (Amaryl)", "use": "Lowers blood sugar levels", "dosage": "1–2mg before breakfast as prescribed", "warning": "Can cause low blood sugar (hypoglycemia). Always carry glucose tablets." }
+      ],
+      "disclaimer": "Diabetes medicines must only be taken as prescribed by a doctor. Regular blood sugar monitoring is essential."
+    },
+    "high blood pressure": {
+      "medicines": [
+        { "name": "Amlodipine (Amlong)", "use": "Controls high blood pressure", "dosage": "5mg once daily in the morning as prescribed", "warning": "Do not stop suddenly. Monitor BP daily. Report swollen ankles to doctor." },
+        { "name": "Telmisartan (Telma 40)", "use": "Reduces high blood pressure and protects kidneys", "dosage": "40mg once daily as prescribed", "warning": "Avoid potassium-rich salt substitutes. Check BP daily." }
+      ],
+      "disclaimer": "BP medications must be taken every day without missing doses. Never adjust dosage without consulting your doctor."
+    },
+    "constipation": {
+      "medicines": [
+        { "name": "Ispaghula Husk (Isabgol/Metamucil)", "use": "Natural fibre supplement to relieve constipation", "dosage": "1 teaspoon in warm water at bedtime", "warning": "Drink plenty of water throughout the day. Safe for long-term use." },
+        { "name": "Lactulose Syrup (Duphalac)", "use": "Softens stool and relieves constipation", "dosage": "15ml (1 tablespoon) once or twice daily", "warning": "May cause bloating initially. Increase water intake." }
+      ],
+      "disclaimer": "Drink at least 8 glasses of water daily. Eat fruits like papaya, banana, and fibre-rich foods to prevent constipation."
+    }
+  },
+  "medicines": {
+    "paracetamol": {
+      "conditions": ["Fever", "Headache", "Body pain", "Toothache", "Post-vaccination fever"],
+      "sideEffects": ["Nausea if taken on empty stomach", "Rarely: skin rash", "Liver damage if overdosed"],
+      "precautions": ["Do not exceed 2g/day in elderly with liver conditions", "Avoid alcohol completely while taking", "Safe in standard doses – commonly recommended for elderly", "Store at room temperature away from moisture"],
+      "disclaimer": "Paracetamol is generally safe for elderly in correct doses. Avoid high doses or prolonged use without doctor supervision."
+    },
+    "metformin": {
+      "conditions": ["Type 2 Diabetes", "Pre-diabetes (prevention)", "PCOS (in women)"],
+      "sideEffects": ["Nausea, diarrhoea initially", "Metallic taste", "Vitamin B12 deficiency with long-term use", "Lactic acidosis (rare, serious)"],
+      "precautions": ["Never take on empty stomach – always with meals", "Stop before surgery or CT scan with contrast dye", "Monitor kidney function every 6 months", "Avoid alcohol", "Carry ID card mentioning you take diabetes medication"],
+      "disclaimer": "Metformin must only be taken as prescribed. Dosage adjustments needed based on kidney function in elderly."
+    },
+    "amlodipine": {
+      "conditions": ["High blood pressure (hypertension)", "Angina (chest pain)", "Coronary artery disease"],
+      "sideEffects": ["Ankle swelling (common in elderly)", "Flushing/warmth sensation", "Headache", "Dizziness when standing up quickly"],
+      "precautions": ["Take at same time daily", "Stand up slowly to avoid dizziness", "Do not stop suddenly without doctor advice", "Monitor BP daily at home", "Report persistent swelling to doctor"],
+      "disclaimer": "Amlodipine is safe and well-tolerated in elderly. Continue even if you feel well – stopping can cause dangerous BP spikes."
+    },
+    "aspirin": {
+      "conditions": ["Pain relief", "Fever", "Headache", "Heart attack prevention (low dose)", "Blood clot prevention after stroke"],
+      "sideEffects": ["Stomach irritation and ulcers", "Bleeding risk (stomach, gums)", "Ringing in ears at high doses", "Bruising"],
+      "precautions": ["Always take after food with plenty of water", "Avoid if on other blood thinners", "Do not use regularly for pain without doctor advice", "Tell your dentist/surgeon before procedures", "Elderly are at higher risk of GI bleeding"],
+      "disclaimer": "Low-dose aspirin for heart protection should only be taken under doctor's advice. Not recommended for routine pain in elderly."
+    },
+    "omeprazole": {
+      "conditions": ["Acid reflux / heartburn", "Peptic ulcer", "Gastritis", "GERD (gastroesophageal reflux disease)"],
+      "sideEffects": ["Headache", "Diarrhoea or constipation", "Low magnesium with long-term use", "Increased fracture risk with very long-term use", "B12 deficiency"],
+      "precautions": ["Take 30 minutes before breakfast for best effect", "Do not use for more than 2 weeks without doctor review", "Regular users should check magnesium and B12 levels annually", "Safe to take with most other medications"],
+      "disclaimer": "Omeprazole is widely used and safe for elderly. Long-term use needs doctor monitoring for nutrient deficiencies."
+    },
+    "cetirizine": {
+      "conditions": ["Allergic rhinitis (runny nose)", "Hay fever", "Urticaria (skin hives)", "Allergic cold symptoms"],
+      "sideEffects": ["Drowsiness (common in elderly)", "Dry mouth", "Dizziness", "Headache"],
+      "precautions": ["Take at bedtime to manage drowsiness", "Do not drive after taking", "Use lowest effective dose in elderly", "Avoid alcohol", "Caution in elderly with kidney disease"],
+      "disclaimer": "Cetirizine is effective but causes more drowsiness in elderly. Night-time dosing is strongly recommended."
+    },
+    "glimepiride": {
+      "conditions": ["Type 2 Diabetes management", "Lowering blood glucose levels"],
+      "sideEffects": ["Hypoglycaemia (low blood sugar) – most important risk", "Weight gain", "Nausea", "Dizziness"],
+      "precautions": ["Always take before breakfast, never skip meal after taking", "Keep glucose tablets or sweet biscuits handy at all times", "Monitor blood sugar regularly", "Avoid alcohol", "Watch for symptoms of low sugar: sweating, trembling, confusion"],
+      "disclaimer": "Glimepiride must be used under strict medical supervision. Hypoglycaemia (low sugar) is a serious risk for elderly – never skip meals."
+    },
+    "telmisartan": {
+      "conditions": ["Hypertension (high BP)", "Kidney protection in diabetes", "Heart failure prevention", "Stroke prevention"],
+      "sideEffects": ["Dizziness on standing", "Low BP (hypotension)", "Elevated potassium levels", "Back pain (rare)"],
+      "precautions": ["Do not use potassium supplements or salt substitutes with potassium", "Stand up slowly", "Monitor kidney function and potassium yearly", "Continue even if you feel fine", "Avoid in pregnancy"],
+      "disclaimer": "Telmisartan is very effective for BP and kidney protection. Never stop without consulting your doctor."
+    }
+  }
+}
